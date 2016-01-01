@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>Default Partition</key>
+        <string>hd(0,9)</string>
+        <key>Timeout</key>
+        <string>2</string>
+        <key>GUI</key>
+        <string>No</string>
+        <key>Graphics Mode</key>
+        <string>1920x1080x32</string>
+        <key>Theme</key>
+        <string>Original</string>
+
+        <key>CsrActiveConfig</key>
+        <string>103</string>
+        <key>GraphicsEnabler</key>
+        <string>Yes</string>
+        <key>AtiConfig</key>
+        <string>Duckweed</string>
+        <key>EthernetBuiltIn</key>
+        <string>Yes</string>
+
+        <key>DSDT</key>
+        <string>/Extra/DSDT.aml</string>
+        <key>SMBIOS</key>
+        <string>/Extra/SMBIOS.plist</string>
+</dict>
+</plist>
